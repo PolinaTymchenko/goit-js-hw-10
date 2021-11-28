@@ -1,4 +1,4 @@
-import './css/styles.css';
+// import './css/styles.css';
 import { fetchCountries } from "./fetchCountries.js";
 import Notiflix from 'notiflix';
 import countryCard from "./country-card.hbs";
